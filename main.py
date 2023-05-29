@@ -107,6 +107,7 @@ def play_game():
 while  input("Do you want to play again?: TYPE 'y' Or 'n'") == 'y':
   clear()
   play_game()
+  #finish game
   
 
   
